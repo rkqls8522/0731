@@ -6,7 +6,7 @@ public class java0731_3 {
 
 		Java0731_1 test1 = new Java0731_1();
 		Java0731_1 test2 = new Java0731_2();
-		Java0731_2 test3 = new Java0731_1();
+		//Java0731_2 test3 = new Java0731_1();
 		Java0731_2 test4 = new Java0731_2();
 		
 	}
